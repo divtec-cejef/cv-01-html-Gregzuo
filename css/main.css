@@ -23,9 +23,9 @@ body {
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
-    max-width: 600px;
+    max-width: 1600px;
     margin: 0 auto;
-    padding-bottom: 200px;
+    padding-bottom: 1200px;
 }
 
 img {
@@ -131,7 +131,7 @@ footer {
 }
 
 footer a {
-    color: #ff0040;
+    color: #137000;
     text-shadow: 2px 2px 5px rgb(81, 255, 0);
 }
 
