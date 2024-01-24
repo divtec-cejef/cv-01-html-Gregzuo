@@ -67,10 +67,10 @@ header {
 }
 
 header .logo img {
-    border: 2px dashed rgb(21, 255, 0);
+    border: 2px dashed rgb(17, 92, 10);
     padding: 10px;
     margin-right: 40px;
-    box-shadow: 4px 4px 10px rgb(0, 183, 255);
+    box-shadow: 4px 4px 10px rgb(245, 255, 109);
 }
 
 header nav {
