@@ -35,12 +35,12 @@ img {
 }
 
 a {
-    color: deeppink;
+    color: #feffc9;
     text-decoration: none;
 }
 
 a:hover {
-    color: darkmagenta;
+    color: #feffc9;
 }
 
 h1, h2, .logo
