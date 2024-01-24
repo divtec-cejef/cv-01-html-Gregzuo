@@ -112,8 +112,8 @@ main .grille li {
 
 main .grille li img {
     object-fit: cover;
-    width: 400px;
-    height: 400px;
+    width: auto;
+    height: auto;
     border: 10px solid rgb(255, 252, 68);
     filter: grayscale(100%);
     transition: filter 3s;
