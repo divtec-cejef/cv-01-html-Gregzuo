@@ -13,7 +13,7 @@
 }
 
 body {
-    font-family: Ravenna, sans-serif;
+    font-family: 'Ravenna', sans-serif;
     font-weight: 400;
     font-size: 1.2rem;
     line-height: 1.4;
@@ -45,7 +45,7 @@ a:hover {
 
 h1, h2, .logo
 {
-    font-family: 'droid_sansregular', 'Arial', sans-serif;
+    font-family: 'Ravenna', sans-serif;
 }
 
 h1 {
