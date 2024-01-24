@@ -1,7 +1,8 @@
 @font-face
 {
     font-family: 'Ravenna.ttf';
-    src: url('../fonts/Ravenna.ttf') format('ttf');
+    src: url('../fonts/Ravenna.ttf') format('truetype');
+
    
     font-weight: normal;
     font-style: normal;
@@ -19,9 +20,9 @@ body {
     color: rgb(0, 135, 224);
     background-color: #1b5e00;
     background-image: url('../img/zelda-totk-artwork-03.jpg');
-    background-position: bottom;
+    background-position: center bottom;
     background-repeat: no-repeat;
-    background-size: 600px;
+    background-size: cover;
     max-width: 600px;
     margin: 0 auto;
     padding-bottom: 200px;
