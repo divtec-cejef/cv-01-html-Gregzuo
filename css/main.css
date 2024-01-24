@@ -29,7 +29,7 @@ body {
 }
 
 img {
-    max-width: 10%;
+    max-width: 100%;
     height: auto;
     width: auto;
 }
@@ -115,7 +115,7 @@ main .grille li img {
     object-fit: cover;
     width: 300px;
     height: 300px;
-    border: 10px solid deeppink;
+    border: 10px solid rgb(244, 248, 2);
     filter: grayscale(100%);
     transition: filter 3s;
 }
@@ -132,10 +132,10 @@ footer {
 
 footer a {
     color: #100c0d;
-    text-shadow: 2px 2px 5px deeppink;
+    text-shadow: 2px 2px 5px rgb(81, 255, 0);
 }
 
 footer a:hover {
-    color: deeppink;
-    text-shadow: 1px 1px 5px deeppink;
+    color: rgb(30, 255, 0);
+    text-shadow: 1px 1px 5px rgb(0, 140, 255);
 }
