@@ -17,7 +17,7 @@ body {
     font-weight: 400;
     font-size: 1.2rem;
     line-height: 1.4;
-    color: rgb(0, 135, 224);
+    color: rgb(199, 233, 255);
     background-color: #1b5e00;
     background-image: url('../img/backcv.jpg');
     background-position: center bottom;
@@ -59,7 +59,7 @@ h1, h1 + p
 }
 
 h2 {
-    color: deepskyblue;
+    color: rgb(90, 68, 131);
 }
 
 header {
@@ -68,10 +68,10 @@ header {
 }
 
 header .logo img {
-    border: 2px dashed greenyellow;
+    border: 2px dashed rgb(21, 255, 0);
     padding: 10px;
     margin-right: 40px;
-    box-shadow: 4px 4px 10px greenyellow;
+    box-shadow: 4px 4px 10px rgb(0, 183, 255);
 }
 
 header nav {
@@ -115,7 +115,7 @@ main .grille li img {
     object-fit: cover;
     width: 300px;
     height: 300px;
-    border: 10px solid rgb(244, 248, 2);
+    border: 10px solid rgb(255, 252, 68);
     filter: grayscale(100%);
     transition: filter 3s;
 }
@@ -131,7 +131,7 @@ footer {
 }
 
 footer a {
-    color: #100c0d;
+    color: #ff0040;
     text-shadow: 2px 2px 5px rgb(81, 255, 0);
 }
 
