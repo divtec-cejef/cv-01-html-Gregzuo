@@ -106,14 +106,14 @@ main .grille {
 }
 
 main .grille li {
-    flex-basis: 300px; /* width: 300px */
+    flex-basis: 400px; /* width: 300px */
     align-self: stretch;
 }
 
 main .grille li img {
     object-fit: cover;
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
     border: 10px solid rgb(255, 252, 68);
     filter: grayscale(100%);
     transition: filter 3s;
