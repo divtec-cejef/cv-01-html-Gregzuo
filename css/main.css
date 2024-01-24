@@ -1,11 +1,8 @@
 @font-face
 {
-    font-family: 'droid_sansregular';
-    src: url('../fonts/DroidSans-webfont.eot');
-    src: url('../fonts/DroidSans-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/DroidSans-webfont.woff') format('woff'),
-         url('../fonts/DroidSans-webfont.ttf') format('truetype'),
-         url('../fonts/DroidSans-webfont.svg#droid_sansregular') format('svg');
+    font-family: 'Ravenna.ttf';
+    src: url('../fonts/Ravenna.ttf');
+   
     font-weight: normal;
     font-style: normal;
 }
@@ -19,9 +16,9 @@ body {
     font-weight: 400;
     font-size: 1.2rem;
     line-height: 1.4;
-    color: greenyellow;
-    background-color: #100c0d;
-    background-image: url('../img/space-invaders.jpg');
+    color: rgb(0, 135, 224);
+    background-color: #1b5e00;
+    background-image: url('../img/zelda-totk-artwork-03.jpg');
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: 600px;
